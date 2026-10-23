@@ -8,7 +8,7 @@ type="image/x-icon">
 <div class="header__wrapper">
 <div class="wrapper__logo">
 <a href="/" class="wrapper__logo-link">
-<img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/737cb471-8158-40cd-ba41-6a502f281c1e" /
+<img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/737cb471-8158-40cd-ba41-6a502f281c1e" / 
 >
 </a>
 </div>
@@ -22,7 +22,7 @@ type="image/x-icon">
 </li>
 <li class="header__item">
 <a href="#" class="header__link">Навчання</a>
-</li>
+</li> 
 <li class="header__item">
 <a href="#" class="header__link">Контакти</a>
 </header>
