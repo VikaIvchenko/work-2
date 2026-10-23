@@ -30,3 +30,19 @@ type="image/x-icon">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<nav class="header__nav">
+<ul class="header__list-menu">
+<li class="header__item">
+<a href="./index.html" class="header__link">Головна</a>
+</li>
+<li class="header__item">
+<a href="./news.html" class="header__link">Новинки</a>
+</li>
+<li class="header__item">
+<a href="./education.html" class="header__link">Навчання</a>
+</li>
+<li class="header__item">
+<a href="./contacts.html" class="header__link">Контакти</a>
+</li>
+</ul>
+</nav>
