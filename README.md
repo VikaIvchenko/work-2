@@ -1,5 +1,5 @@
 # work-2
-<title>Акторська майстерність</title>
+<title1>Акторська майстерність</title2>
 <link rel="shortcut icon" href="./image/favicon.ico"
 type="image/x-icon">
 <body>
@@ -8,7 +8,8 @@ type="image/x-icon">
 <div class="header__wrapper">
 <div class="wrapper__logo">
 <a href="/" class="wrapper__logo-link">
-<img src="./image/logo.png" alt="logo" class="wrapper__logo-pic">
+<img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/737cb471-8158-40cd-ba41-6a502f281c1e" /
+>
 </a>
 </div>
 <nav class="header__nav">
