@@ -1,5 +1,5 @@
 # work-2
-<title>Minecraft</title>
+<title> Minecraft </title>
 <link rel="shortcut icon" href="./image/favicon.ico"
 type="image/x-icon">
 <body>
