@@ -19,14 +19,14 @@ type="image/x-icon">
 <li class="header__item">
 <a href="#" class="header__link">Новинки</a>
 </li>
-                        <li class="header__item">
-                            <a href="#" class="header__link">Навчання</a>
-                        </li>
-                        <li class="header__item">
-                            <a href="#" class="header__link">Контакти</a>
-                        </li>
-                    </ul>
-               </nav>
-            </div>
-        </div>
-    </header>
+<li class="header__item">
+<a href="#" class="header__link">Навчання</a>
+</li>
+<li class="header__item">
+<a href="#" class="header__link">Контакти</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
