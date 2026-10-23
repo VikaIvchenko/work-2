@@ -1,5 +1,5 @@
 # work-2
-<title1>Акторська майстерність</title2>
+<title1>Акторське мистецтво</title2>
 <link rel="shortcut icon" href="./image/favicon.ico"
 type="image/x-icon">
 <body>
